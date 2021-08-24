@@ -1,0 +1,169 @@
+{
+  "main": {
+    "name": "Dharmesh Kumar",
+    "occupation": "Full Stack Developer",
+    "description": "I eat, sleep and breathe JS",
+    "image": "profile.jpeg",
+    "bio": "Hi there! I am dharmesh and I love developing a progressive and user-centric applications where I can make the most of my love of technology and my knowledge of user-centred development techniques. My passion for learning and my involvement in web development will help me in optimizing web functionalities that improve data retrieval, workflow efficiencies and deliver work on time.",
+    "contactmessage": "Get in touch with me!",
+    "email": "mesh0497@gmail.com",
+    "phone": "+91 7402521852",
+    "address": {
+      "street": "Anna Nagar",
+      "city": "Chennai",
+      "state": "Tamilnadu",
+      "zip": "600023"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/mesh0497/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dharmesh-kumar-r-64651a117/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/dharmi_krishnan/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/dharmesh-jarvis?tab=repositories",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Adithya Institute of Technology - CBE",
+        "degree": "Bachelor's Degree, Mechanical Engineering",
+        "graduated": "2018",
+        "description": "Graduated with First Class Honours - Best Outgoing Student of the batch (2014 - 2018)"
+      }
+    ],
+    "work": [
+      {
+        "company": "Isithora Software Solutions",
+        "title": "Full Stack Developer",
+        "years": "JAN 2020 - Present",
+        "description": ""
+      },
+      {
+        "company": "Isithora Software Solutions",
+        "title": "MERN Stack Developer",
+        "years": "SEP 2019 - DEC 2019",
+        "description": ""
+      },
+      {
+        "company": "Infinijith Apps & Technologies Pvt Ltd - CBE",
+        "title": "Web Developer Trainee",
+        "years": "AUG 2018 - SEP 2018",
+        "description": "I've worked on Node JS v8.9.4, React JS v16.0 as a trainee and I hope that I did my best and full potential in learning and developing things."
+      },
+      {
+        "company": "Infinijith Apps & Technologies Pvt Ltd - CBE",
+        "title": "Web Developer Intern",
+        "years": "JUN 2018 - AUG 2018",
+        "description": "Learnt javascript frameworks such as React Js, API integration using Node, and Database such as MySQL, MongoDB as an intern and my self-learning skills helped me a lot to learn more things."
+      },
+      {
+        "company": "FICE Education- Bangalore",
+        "title": "Intern",
+        "years": "JAN 2018 - MAR 2018",
+        "description": "Completed courses such as loT. Python for Data Science, NLP, Machine Learning through EdX portal and mentored over 30 students for their loT projects and helping them to learn courses."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs/ Redux",
+        "level": "99%"
+      },
+      {
+        "name": "React Native (Mobile App Dev)",
+        "level": "50%"
+      },
+      {
+        "name": "MySQL (Database)",
+        "level": "75%"
+      },
+      {
+        "name": "MongoDB (Database)",
+        "level": "80%"
+      },
+      {
+        "name": "NodeJs/ Express",
+        "level": "95%"
+      },
+      {
+        "name": "Cloud (AWS, OCI, Wasabi)",
+        "level": "30%"
+      },
+      {
+        "name": "Python for Data Science",
+        "level": "25%"
+      },
+      {
+        "name": "CSS & UI (Bootstrap, Material UI, Tailwind CSS)",
+        "level": "75%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Embedded systems/ IoT",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Easy Dent Connect (React & Node JS)",
+        "category": "",
+        "image": "edc.png",
+        "url": "https://easydentconnect.com"
+      },
+      {
+        "title": "Airbnb Clone (React JS)",
+        "category": "",
+        "image": "airbnb.png",
+        "url": "https://stoic-lumiere-9d2827.netlify.app"
+      },
+      {
+        "title": "New Horizon (React JS)",
+        "category": "",
+        "image": "newhorizon.png",
+        "url": "https://www.newhorizonwealth.in/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Developing with Dharmesh has been AWESOME, he makes developing React so easy and approachable!",
+        "user": "Praveen Kumar"
+      },
+      {
+        "text": "Dharmesh is one of the best among all the people I have ever worked with. As I remember, Dharmesh was a very productive person, is hardworking, broad-minded and forward thinking individual. Intelligent, ambitious, energetic and proactive perfectionist. Desire for proficiency and education makes Dharmesh a valuable asset to the team. Working with Dharmesh is a signature of success.",
+        "user": "Naveen Kumar S"
+      }
+    ]
+  }
+}
