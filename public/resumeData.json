@@ -1,21 +1,21 @@
 {
   "main": {
     "name": "Dharmesh Kumar",
-    "occupation": "Full Stack Developer",
+    "occupation": "MERN Stack Developer",
     "description": "I eat, sleep and breathe JS",
     "image": "profile.jpeg",
-    "bio": "Hi there! I am dharmesh and I love developing a progressive and user-centric applications where I can make the most of my love of technology and my knowledge of user-centred development techniques. My passion for learning and my involvement in web development will help me in optimizing web functionalities that improve data retrieval, workflow efficiencies and deliver work on time.",
+    "bio": "I wish to work in a concern where I can deliver and develop skills for the mutual benefit of myself and the concern. My passion for learning and my experience in web development will help me optimizing web functionalities that improve the efficiency of workflow and deliver work on time.",
     "contactmessage": "Get in touch with me!",
     "email": "mesh0497@gmail.com",
     "phone": "+91 7402521852",
     "address": {
-      "street": "Anna Nagar",
-      "city": "Chennai",
+      "street": "Cumbum",
+      "city": "Theni",
       "state": "Tamilnadu",
       "zip": "600023"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "",
+    "resumedownload": "",
     "social": [
       {
         "name": "facebook",
@@ -43,40 +43,46 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "Adithya Institute of Technology - CBE",
+        "school": "Adithya Institute of Technology - Coimbatore, India",
         "degree": "Bachelor's Degree, Mechanical Engineering",
         "graduated": "2018",
-        "description": "Graduated with First Class Honours - Best Outgoing Student of the batch (2014 - 2018)"
+        "description": "Graduated with First Class Honours (CGPA: 6.69/10) - Best Outgoing Student of the batch (2014 - 2018)"
+      },
+      {
+        "school": "N.A.M.M.H.S.S - Cumbum, India",
+        "degree": "12th Higher Secondary Education",
+        "graduated": "2014",
+        "description": "Percentage: 82.75%"
+      },
+      {
+        "school": "N.A.M.M.H.S.S - Cumbum, India",
+        "degree": "10th SSLC",
+        "graduated": "2012",
+        "description": "Percentage: 83.60%"
       }
     ],
     "work": [
       {
-        "company": "Isithora Software Solutions",
-        "title": "Full Stack Developer",
-        "years": "JAN 2020 - Present",
-        "description": ""
-      },
-      {
-        "company": "Isithora Software Solutions",
+        "company": "Isithora Software Solutions - Chennai, India",
         "title": "MERN Stack Developer",
-        "years": "SEP 2019 - DEC 2019",
+        "years": "NOV 2021 - Present",
         "description": ""
       },
       {
-        "company": "Infinijith Apps & Technologies Pvt Ltd - CBE",
-        "title": "Web Developer Trainee",
-        "years": "AUG 2018 - SEP 2018",
-        "description": "I've worked on Node JS v8.9.4, React JS v16.0 as a trainee and I hope that I did my best and full potential in learning and developing things."
+        "company": "Isithora Software Solutions - Chennai, India",
+        "title": "Front - End Developer",
+        "years": "JAN 2020 - OCT 2020",
+        "description": ""
       },
       {
-        "company": "Infinijith Apps & Technologies Pvt Ltd - CBE",
-        "title": "Web Developer Intern",
+        "company": "Infinijith Apps & Technologies Pvt Ltd - Coimbatore, India",
+        "title": "Web Development Intern",
         "years": "JUN 2018 - AUG 2018",
         "description": "Learnt javascript frameworks such as React Js, API integration using Node, and Database such as MySQL, MongoDB as an intern and my self-learning skills helped me a lot to learn more things."
       },
       {
-        "company": "FICE Education- Bangalore",
-        "title": "Intern",
+        "company": "FICE Education Pvt Ltd - Bangalore, India",
+        "title": "IoT & Data Science Intern",
         "years": "JAN 2018 - MAR 2018",
         "description": "Completed courses such as loT. Python for Data Science, NLP, Machine Learning through EdX portal and mentored over 30 students for their loT projects and helping them to learn courses."
       }
@@ -91,28 +97,44 @@
         "level": "99%"
       },
       {
-        "name": "React Native (Mobile App Dev)",
+        "name": "React Native (Expo CLI)",
         "level": "50%"
       },
       {
-        "name": "MySQL (Database)",
-        "level": "75%"
-      },
-      {
-        "name": "MongoDB (Database)",
+        "name": "TypeScript",
         "level": "80%"
       },
       {
-        "name": "NodeJs/ Express",
+        "name": "Node/ Express Js",
         "level": "95%"
       },
       {
-        "name": "Cloud (AWS, OCI, Wasabi)",
-        "level": "30%"
+        "name": "API/ Microservices",
+        "level": "95%"
+      },
+      {
+        "name": "Docker",
+        "level": "60%"
+      },
+      {
+        "name": "MySQL (ORM)",
+        "level": "75%"
+      },
+      {
+        "name": "MongoDB (ODM)",
+        "level": "80%"
+      },
+      {
+        "name": "Cloud S3 (AWS, OCI, Wasabi)",
+        "level": "70%"
       },
       {
         "name": "Python for Data Science",
-        "level": "25%"
+        "level": "30%"
+      },
+      {
+        "name": "Python/ Django",
+        "level": "35%"
       },
       {
         "name": "CSS & UI (Bootstrap, Material UI, Tailwind CSS)",
@@ -125,6 +147,14 @@
       {
         "name": "Git",
         "level": "70%"
+      },
+      {
+        "name": "Agile (Scrum)",
+        "level": "70%"
+      },
+      {
+        "name": "Networking (Routing & Switching)",
+        "level": "40%"
       },
       {
         "name": "Embedded systems/ IoT",
@@ -141,7 +171,7 @@
         "url": "https://easydentconnect.com"
       },
       {
-        "title": "Airbnb Clone (React JS)",
+        "title": "Airbnb Clone (React & Next JS)",
         "category": "",
         "image": "airbnb.png",
         "url": "https://stoic-lumiere-9d2827.netlify.app"
@@ -151,6 +181,12 @@
         "category": "",
         "image": "newhorizon.png",
         "url": "https://www.newhorizonwealth.in/"
+      },
+      {
+        "title": "Sakthi Constructions (React JS)",
+        "category": "",
+        "image": "sakthiconstructions.png",
+        "url": "https://sakthiconstructionscumbum.web.app"
       }
     ]
   },
@@ -158,11 +194,11 @@
     "testimonials": [
       {
         "text": "Developing with Dharmesh has been AWESOME, he makes developing React so easy and approachable!",
-        "user": "Praveen Kumar"
+        "user": "Praveen Kumar, Web Developer - Isithora software solutions"
       },
       {
         "text": "Dharmesh is one of the best among all the people I have ever worked with. As I remember, Dharmesh was a very productive person, is hardworking, broad-minded and forward thinking individual. Intelligent, ambitious, energetic and proactive perfectionist. Desire for proficiency and education makes Dharmesh a valuable asset to the team. Working with Dharmesh is a signature of success.",
-        "user": "Naveen Kumar S"
+        "user": "Naveen Kumar S, Senior Web Developer - Infinijith Apps and Technologies Pvt Ltd"
       }
     ]
   }
